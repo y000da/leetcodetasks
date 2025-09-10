@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "bubblesort.h": "c",
+        "string.h": "c",
+        "stdbool.h": "c",
+        "stdio.h": "c",
+        "triangle_numbers": "c",
+        "math.h": "c"
+    }
+}

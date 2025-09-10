@@ -1,0 +1,1 @@
+int checkIfExist(int* arr, int arrSize);

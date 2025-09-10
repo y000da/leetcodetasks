@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtree.a CMakeFiles/tree.dir/Trees/BinarySearchTree/binary_search_tree.c.o
+/usr/bin/ranlib libtree.a

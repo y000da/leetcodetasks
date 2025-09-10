@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstring_reverse.a CMakeFiles/string_reverse.dir/Recursion/string_reverse.c.o
+/usr/bin/ranlib libstring_reverse.a

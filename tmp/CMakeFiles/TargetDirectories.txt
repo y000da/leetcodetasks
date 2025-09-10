@@ -1,0 +1,4 @@
+/home/y000da/learningC/LeetCodeTasks/tmp/CMakeFiles/tree.dir
+/home/y000da/learningC/LeetCodeTasks/tmp/CMakeFiles/test_tree.dir
+/home/y000da/learningC/LeetCodeTasks/tmp/CMakeFiles/edit_cache.dir
+/home/y000da/learningC/LeetCodeTasks/tmp/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libladder_task.a CMakeFiles/ladder_task.dir/Recursion/ladder_task.c.o
+/usr/bin/ranlib libladder_task.a

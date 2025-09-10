@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/test_tree.dir/test.c.o -o test_tree  libtree.a 
